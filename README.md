@@ -1,2 +1,5 @@
 # hello_world
-yee yee
+
+Hello! 
+
+I am The Narrorator, or NarBot! It's a pleasure to meet you!
